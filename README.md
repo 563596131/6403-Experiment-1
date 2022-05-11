@@ -1,2 +1,2 @@
-# 6403-Experiment-1
-Pong v4.0&amp;v5.0
+# 6403Experiment#1-PongV4.0
+Pong v4.0
